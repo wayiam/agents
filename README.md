@@ -1,9 +1,8 @@
-# agentsdk/README.md
 
-# Agentsdk Project
+# Agents
 
 ## Description
-Agentsdk is a full-stack application that consists of a frontend built with React and a backend powered by Node.js. This project serves as a template for developing applications that require both client-side and server-side functionality.
+Agents is a full-stack application that consists of a frontend built with React and a backend powered by Node.js. This project serves as a template for developing applications that require both client-side and server-side functionality.
 
 ## Project Structure
 The project is organized into two main directories: `frontend` and `backend`.
